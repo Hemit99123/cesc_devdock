@@ -1,6 +1,6 @@
-# CESC DevDock
+# CSC DevDock
 
-An open-sourced online resource database for Castlebrooke's Computer Science Club, developed by Hemit Patel (President of CESC).
+An open-sourced online resource database for Castlebrooke's Computer Science Club, developed by Hemit Patel
 
 To contribute, please branch out of the main and create a PR once you finish your changes.
 
